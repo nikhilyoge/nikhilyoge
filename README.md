@@ -30,11 +30,9 @@
 
 ## Projects
 
-🚧 Currently building my first projects — check back soon!
+Sentiment Analyzer
+A Python project that analyzes the sentiment of product reviews and classifies them as Positive, Negative, or Neutral using Natural Language Processing (NLP)
 
-I am actively learning Python and Machine Learning and will 
-be uploading my first projects here very soon.
----
 
 ## GitHub Stats
 
